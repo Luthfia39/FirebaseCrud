@@ -39,7 +39,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/border"
-        android:padding="10dp"/>
+        android:padding="10dp"
+        android:hint="Name"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -53,7 +54,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/border"
-        android:padding="10dp"/>
+        android:padding="10dp"
+        android:hint="Address"/>
     <Button
         android:id="@+id/btn_insert"
         android:layout_width="match_parent"
